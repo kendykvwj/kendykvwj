@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Kendy!
 
-💻 Desenvolvedor Back-end focado em **Ruby on Rails** e **Node.js**  
+💻 Desenvolvedor Back-end Jr focado em **Ruby on Rails** e **Node.js**  
 🚀 Estudando arquitetura, boas práticas e desenvolvimento de APIs  
 📚 Interesse em projetos reais, código limpo e escalável
 
@@ -8,9 +8,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kendywakiyama&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kendykvwj&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendywakiyama&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendykvwj&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
